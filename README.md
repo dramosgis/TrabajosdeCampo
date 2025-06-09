@@ -1,4 +1,5 @@
 Ejercicio 1: Sistema de Registro de Usuarios y Estadísticas
+
 Objetivo
 Implementar una aplicación que permita:
 •	Registrar múltiples usuarios con datos personales.
